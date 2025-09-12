@@ -1,20 +1,51 @@
 {
-  "name": "wednesday",
-  "displayName": "Wednesday",
-  "description": "",
+  "name": "theme-wednesday",
+  "displayName": "Wednesday Theme Official",
+  "description": "The Official Wednesday Theme for Visual Studio Code",
   "version": "0.0.1",
+  "homepage": "https://djoezeke.github.io/Wednesday/",
+  "maintainers": [
+    "Sackey Ezekiel Etrue"
+  ],
+  "contributors": [
+    "Sackey Ezekiel Etrue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/djoezeke/Wednesday"
+  },
+  "bugs": {
+    "url": "https://github.com/djoezeke/Wednesday/issues"
+  },
   "engines": {
-    "vscode": "^1.104.0"
+    "vscode": "^1.76.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "dark",
+    "theme",
+    "wednesday",
+    "color-theme",
+    "wednesday dark",
+    "wednesday theme"
+  ],
+  "galleryBanner": {
+    "color": "#3c4557",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
         "label": "Wednesday",
         "uiTheme": "vs-dark",
         "path": "./themes/Wednesday.json"
+      },
+      {
+        "label": "Wednesday Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wednesday-Soft.json"
       }
     ]
   }
