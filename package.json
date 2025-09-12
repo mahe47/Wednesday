@@ -1,0 +1,21 @@
+{
+  "name": "wednesday",
+  "displayName": "Wednesday",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wednesday",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wednesday.json"
+      }
+    ]
+  }
+}
